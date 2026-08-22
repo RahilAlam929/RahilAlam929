@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm MD Rahil
+# Hi, I'm MD Rahil
 
 ### Full Stack Developer · AI/ML Enthusiast · Open Source Contributor
 
@@ -13,16 +13,16 @@ Building modern web applications, AI-powered products & developer tools.
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a Computer Science student who enjoys turning ideas into real-world
 products using modern web technologies and AI.
 
-- 🔭 Building **AI-powered applications & developer tools**
-- 🌱 Learning **AI/ML, system design & advanced Next.js**
-- 🤝 Interested in **Open Source & Hackathons**
-- 💡 Passionate about solving real-world problems with technology
-- ⚡ Always learning, building and experimenting
+- Building **AI-powered applications & developer tools**
+- Learning **AI/ML, system design & advanced Next.js**
+-  Interested in **Open Source & Hackathons**
+-  Passionate about solving real-world problems with technology
+-  Always learning, building and experimenting
 
 ---
 
@@ -79,13 +79,13 @@ products using modern web technologies and AI.
 
 ---
 
-## 🔥 What I'm Building
+##  What I'm Building
 
 <table>
 <tr>
 <td width="50%">
 
-### 🔍 RuntimeLens
+###  RuntimeLens
 
 A developer-focused platform for analyzing projects,
 code and technical issues.
@@ -96,7 +96,7 @@ code and technical issues.
 
 <td width="50%">
 
-### 🎵 Soundly
+###  Soundly
 
 A modern music streaming application with a clean,
 responsive user experience.
@@ -109,7 +109,7 @@ responsive user experience.
 <tr>
 <td width="50%">
 
-### 🤖 AI for Social Good
+###  AI for Social Good
 
 AI-powered solutions designed to make useful technology
 more accessible for real-world problems.
@@ -133,13 +133,13 @@ web technologies and product development.
 
 ---
 
-## 🌟 Open Source Contributions
+##  Open Source Contributions
 
 ### Developer Roadmap
 
 Contributing to the **Developer Roadmap** open-source project.
 
-📚 **Contribution:** Improved the documentation for
+ **Contribution:** Improved the documentation for
 **Parallel vs Sequential Data Fetching in Next.js**
 
 **What I improved:**
@@ -152,25 +152,24 @@ Contributing to the **Developer Roadmap** open-source project.
 
 ---
 
-## 📊 GitHub Overview
+
+
+##  GitHub Overview
 
 <p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=RahilAlam929&show_icons=true&theme=tokyonight&hide_border=true"
+    width="48%"
+  />
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=RahilAlam929&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-  height="180"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahilAlam929&layout=compact&theme=tokyonight&hide_border=true"
-  height="180"
-/>
-
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahilAlam929&layout=compact&theme=tokyonight&hide_border=true"
+    width="48%"
+  />
 </p>
-
 ---
 
-## 🔥 GitHub Streak
+##  GitHub Streak
 
 <p align="center">
 
@@ -183,7 +182,7 @@ Contributing to the **Developer Roadmap** open-source project.
 
 ---
 
-## 📈 Contribution Activity
+##  Contribution Activity
 
 <p align="center">
 
@@ -196,7 +195,7 @@ Contributing to the **Developer Roadmap** open-source project.
 
 ---
 
-## 🏆 GitHub Achievements
+##  GitHub Achievements
 
 <p align="center">
 
@@ -209,7 +208,7 @@ Contributing to the **Developer Roadmap** open-source project.
 
 ---
 
-## 📌 GitHub Activity
+##  GitHub Activity
 
 <p align="center">
 
@@ -227,7 +226,7 @@ Contributing to the **Developer Roadmap** open-source project.
 
 ---
 
-## 🌱 Current Focus
+##  Current Focus
 
 ```text
 Web Development
@@ -242,8 +241,8 @@ Real-world Products
 Connect With Me
 <div align="center"> <a href="https://www.linkedin.com/in/md-rahil-a070b3329/"> <img src="https://img.shields.io/badge/LinkedIn-MD%20Rahil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/RahilAlam929"> <img src="https://img.shields.io/badge/GitHub-RahilAlam929-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </div>
 <div align="center">
-💻 Build · Learn · Contribute · Repeat
+ Build · Learn · Contribute · Repeat
 
-⭐ Thanks for visiting my profile!
+ Thanks for visiting my profile!
 
 </div> ```
