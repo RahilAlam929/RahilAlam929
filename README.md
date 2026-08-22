@@ -1,4 +1,4 @@
-# Hey, I'm MD Rahil 👋
+# Hey, I'm MD Rahil 
 
 ### Full Stack Developer • AI/ML Enthusiast • Open Source Contributor
 
@@ -9,15 +9,15 @@ I enjoy turning ideas into real-world products and contributing to open source.
 
 ---
 
-## 🚀 What I'm Building
+##  What I'm Building
 
-- 🔍 **RuntimeLens** — Developer tool for analyzing projects and code
-- 🎵 **Soundly** — Modern music streaming application
-- 🤖 **AI for Social Good** — AI-powered solutions for real-world problems
+-  **RuntimeLens** — Developer tool for analyzing projects and code
+-  **Soundly** — Modern music streaming application
+-  **AI for Social Good** — AI-powered solutions for real-world problems
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 - Next.js & React
 - TypeScript
@@ -28,7 +28,7 @@ I enjoy turning ideas into real-world products and contributing to open source.
 
 ---
 
-## 🛠️ Technologies
+##  Technologies
 
 **Languages**
 
@@ -52,7 +52,7 @@ Git • GitHub • Docker • VS Code
 
 ---
 
-## 🌟 Open Source
+##  Open Source
 
 ### Developer Roadmap
 
@@ -67,7 +67,7 @@ Contributed documentation improvements for:
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![Rahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RahilAlam929&show_icons=true&theme=tokyonight&hide_border=true)
 
@@ -75,7 +75,7 @@ Contributed documentation improvements for:
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/md-rahil-a070b3329/) • [GitHub](https://github.com/RahilAlam929)
 
