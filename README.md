@@ -1,42 +1,85 @@
-<h1 align="center">Hi 👋, I'm MD Rahil</h1>
+<div align="center">
 
-<h3 align="center">
-Full Stack Developer • AI/ML Enthusiast • Open Source Contributor
-</h3>
+# 👋 Hi, I'm MD Rahil
 
-<p align="center">
-  <a href="https://github.com/RahilAlam929">
-    <img src="https://komarev.com/ghpvc/?username=RahilAlam929&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
-</p>
+### Full Stack Developer · AI/ML Enthusiast · Open Source Contributor
+
+Building modern web applications, AI-powered products & developer tools.
+
+[![GitHub](https://img.shields.io/badge/GitHub-RahilAlam929-181717?style=flat-square&logo=github)](https://github.com/RahilAlam929)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MD%20Rahil-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/md-rahil-a070b3329/)
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-I'm a Computer Science student who enjoys building modern web
-applications, AI-powered products and developer tools.
+I'm a Computer Science student who enjoys turning ideas into real-world
+products using modern web technologies and AI.
 
-I like turning ideas into real products and continuously improving
-my skills through projects, hackathons and open-source contributions.
-
-- 🔭 Currently building **developer tools and AI-powered applications**
-- 🌱 Learning **advanced Next.js, AI/ML and system design**
+- 🔭 Building **AI-powered applications & developer tools**
+- 🌱 Learning **AI/ML, system design & advanced Next.js**
 - 🤝 Interested in **Open Source & Hackathons**
-- 💡 Passionate about **building useful products**
-- 📍 Based in India
+- 💡 Passionate about solving real-world problems with technology
+- ⚡ Always learning, building and experimenting
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,tailwind,nodejs,postgres" />
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=javascript" height="42" />
+  <img src="https://skillicons.dev/icons?i=typescript" height="42" />
+  <img src="https://skillicons.dev/icons?i=python" height="42" />
+  <img src="https://skillicons.dev/icons?i=java" height="42" />
 </p>
 
+`JavaScript` · `TypeScript` · `Python` · `Java`
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react" height="42" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="42" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="42" />
+  <img src="https://skillicons.dev/icons?i=html" height="42" />
+  <img src="https://skillicons.dev/icons?i=css" height="42" />
+</p>
+
+`React` · `Next.js` · `Tailwind CSS` · `HTML` · `CSS`
+
+### Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="42" />
+  <img src="https://skillicons.dev/icons?i=express" height="42" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="42" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="42" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="42" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="42" />
+</p>
+
+`Node.js` · `Express` · `FastAPI` · `PostgreSQL` · `Supabase` · `Prisma`
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git" height="42" />
+  <img src="https://skillicons.dev/icons?i=github" height="42" />
+  <img src="https://skillicons.dev/icons?i=docker" height="42" />
+  <img src="https://skillicons.dev/icons?i=aws" height="42" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="42" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="42" />
+</p>
+
+`Git` · `GitHub` · `Docker` · `AWS` · `Vercel` · `VS Code`
+
 ---
 
-## 🚀 Featured Projects
+## 🔥 What I'm Building
 
 <table>
 <tr>
@@ -44,9 +87,10 @@ my skills through projects, hackathons and open-source contributions.
 
 ### 🔍 RuntimeLens
 
-Developer tool for analyzing projects, code and technical issues.
+A developer-focused platform for analyzing projects,
+code and technical issues.
 
-**Next.js • TypeScript • Prisma**
+**Next.js · TypeScript · Prisma**
 
 </td>
 
@@ -54,10 +98,10 @@ Developer tool for analyzing projects, code and technical issues.
 
 ### 🎵 Soundly
 
-Modern music streaming application with a clean,
-responsive interface.
+A modern music streaming application with a clean,
+responsive user experience.
 
-**Next.js • TypeScript • Tailwind CSS**
+**Next.js · TypeScript · Tailwind CSS**
 
 </td>
 </tr>
@@ -67,10 +111,10 @@ responsive interface.
 
 ### 🤖 AI for Social Good
 
-AI-powered solutions focused on solving real-world
-problems through accessible technology.
+AI-powered solutions designed to make useful technology
+more accessible for real-world problems.
 
-**React • Next.js • Python • AI**
+**React · Next.js · Python · AI**
 
 </td>
 
@@ -78,10 +122,10 @@ problems through accessible technology.
 
 ### 🚀 BuildQuest
 
-A platform/project focused on building and experimenting
-with modern web technologies.
+A modern project focused on experimenting with
+web technologies and product development.
 
-**React • Next.js • TypeScript**
+**React · Next.js · TypeScript**
 
 </td>
 </tr>
@@ -89,45 +133,52 @@ with modern web technologies.
 
 ---
 
-## 🌟 Open Source
+## 🌟 Open Source Contributions
 
 ### Developer Roadmap
 
 Contributing to the **Developer Roadmap** open-source project.
 
-📚 Improved documentation for:
-
+📚 **Contribution:** Improved the documentation for
 **Parallel vs Sequential Data Fetching in Next.js**
 
-- Improved explanations
-- Added practical examples
-- Explained request waterfalls
-- Added guidance on choosing the right fetching pattern
+**What I improved:**
+
+- Clearer sequential fetching explanation
+- Parallel fetching examples
+- `Promise.all` example
+- Request waterfall explanation
+- Guidance on choosing the right pattern
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Overview
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=RahilAlam929&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    height="170"
-  />
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahilAlam929&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
-  />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=RahilAlam929&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+  height="180"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahilAlam929&layout=compact&theme=tokyonight&hide_border=true"
+  height="180"
+/>
+
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=RahilAlam929&theme=tokyonight&hide_border=true"
-  />
+
+<img
+  src="https://streak-stats.demolab.com?user=RahilAlam929&theme=tokyonight&hide_border=true"
+  width="600"
+/>
+
 </p>
 
 ---
@@ -135,10 +186,12 @@ Contributing to the **Developer Roadmap** open-source project.
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=RahilAlam929&theme=tokyo-night&hide_border=true"
-    width="100%"
-  />
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=RahilAlam929&theme=tokyo-night&hide_border=true&area=true"
+  width="100%"
+/>
+
 </p>
 
 ---
@@ -146,15 +199,51 @@ Contributing to the **Developer Roadmap** open-source project.
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=RahilAlam929&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"
-  />
+
+<img
+  src="https://github-profile-trophy.vercel.app/?username=RahilAlam929&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"
+  width="90%"
+/>
+
 </p>
 
 ---
 
-## 🌱 Open Source Journey
+## 📌 GitHub Activity
+
+<p align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api/pin/?username=RahilAlam929&repo=RuntimeLens&theme=tokyonight&hide_border=true"
+  width="45%"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/pin/?username=RahilAlam929&repo=Soundly&theme=tokyonight&hide_border=true"
+  width="45%"
+/>
+
+</p>
+
+---
+
+## 🌱 Current Focus
 
 ```text
-Build → Learn → Contribute → Improve → Repeat
+Web Development
+      ↓
+AI / Machine Learning
+      ↓
+Developer Tools
+      ↓
+Open Source
+      ↓
+Real-world Products
+Connect With Me
+<div align="center"> <a href="https://www.linkedin.com/in/md-rahil-a070b3329/"> <img src="https://img.shields.io/badge/LinkedIn-MD%20Rahil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/RahilAlam929"> <img src="https://img.shields.io/badge/GitHub-RahilAlam929-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </div>
+<div align="center">
+💻 Build · Learn · Contribute · Repeat
 
+⭐ Thanks for visiting my profile!
+
+</div> ```
