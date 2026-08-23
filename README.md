@@ -120,38 +120,4 @@ Contributing to open-source web projects.
 Improved Python project dependency setup by adding:
 
 ```text
-requirements.txt  GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RahilAlam929&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahilAlam929&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"> </div>
-🔥 GitHub Streak
-<div align="center"> <img src="https://streak-stats.demolab.com?user=RahilAlam929&theme=tokyonight&hide_border=true"> </div>
-📈 Contribution Graph
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=RahilAlam929&theme=tokyo-night&hide_border=true&area=true"> </div>
-🏆 GitHub Trophies
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=RahilAlam929&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"> </div>  Full-Stack Development
-        ↓
-AI / Machine Learning
-        ↓
-Data Science
-        ↓
-Developer Tools
-        ↓
-Open Source
-        ↓
-Real-World Products  Open Source Journey
-
-I enjoy building, contributing and learning through real-world open-source projects.
-
-Currently focusing on:
-
-🚀 Full-Stack Development
-🤖 AI/ML
-📊 Data Science
-🛠️ Developer Tools
-🌍 Open Source
-☁️ Cloud & Scalable Systems
-<div align="center">
-💫 Build. Contribute. Learn. Repeat.
-
-⭐ Thanks for visiting my profile!
-
-</div> EOF ```
+requirements.txt
