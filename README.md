@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm MD Rahil
+#  Hi, I'm MD Rahil
 
 ### Full-Stack Developer · AI/ML Enthusiast · Open-Source Contributor
 
@@ -13,15 +13,15 @@ Building modern web applications, AI-powered products and developer tools.
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
-- 🎓 B.Tech CSE Student
-- 💻 Full-Stack Developer
-- 🤖 AI/ML & Data Science Enthusiast
-- 🌍 Open-Source Contributor
-- 🚀 Building AI-powered products and developer tools
-- 🧠 Exploring scalable systems, automation and intelligent applications
-- 📚 Always learning and building
+-  B.Tech CSE Student
+  Full-Stack Developer
+-  AI/ML & Data Science Enthusiast
+-  Open-Source Contributor
+-  Building AI-powered products and developer tools
+-  Exploring scalable systems, automation and intelligent applications
+-  Always learning and building
 
 ---
 
@@ -58,27 +58,27 @@ Building modern web applications, AI-powered products and developer tools.
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
-### 🔬 RuntimeLens
+###  RuntimeLens
 
 Developer tool for analyzing projects, code and technical issues.
 
 **Next.js · TypeScript · Prisma · SQLite**
 
-### 🎵 Soundly
+###  Soundly
 
 Modern music streaming application with a clean and responsive interface.
 
 **Next.js · TypeScript · Tailwind CSS**
 
-### 🤖 AI for Social Good
+###  AI for Social Good
 
 AI-powered solutions focused on solving real-world problems.
 
 **React · Next.js · Python · AI/ML**
 
-### 🏗️ BuildQuest
+###  BuildQuest
 
 A platform for building and experimenting with modern web products.
 
@@ -86,9 +86,9 @@ A platform for building and experimenting with modern web products.
 
 ---
 
-# 🌍 Open Source
+#  Open Source
 
-### 🗺️ Developer Roadmap
+###  Developer Roadmap
 
 Contributing to open-source developer education and documentation.
 
@@ -97,7 +97,7 @@ Contributing to open-source developer education and documentation.
 - Parallel vs Sequential fetching content
 - Technical examples and clarifications
 
-### 🇯🇵 KanaDojo
+###  KanaDojo
 
 Contributing to an open-source Japanese learning platform.
 
@@ -107,7 +107,7 @@ Contributing to an open-source Japanese learning platform.
 - Themes and content
 - Repository maintenance
 
-### ⚙️ OpenElements
+###  OpenElements
 
 Contributing to open-source web projects.
 
@@ -115,7 +115,7 @@ Contributing to open-source web projects.
 - GitHub Actions ecosystem
 - Dependency maintenance
 
-### 🎬 Instant Movie Streamer
+###  Instant Movie Streamer
 
 Improved Python project dependency setup by adding:
 
