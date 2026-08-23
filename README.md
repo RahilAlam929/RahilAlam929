@@ -1,126 +1,157 @@
-# 👋 Hey, I'm MD Rahil
+<div align="center">
 
-### 🚀 Full-Stack Developer • AI/ML Enthusiast • Open-Source Contributor
+# 👋 Hi, I'm MD Rahil
 
-I build modern web applications, AI-powered products, developer tools, and open-source projects focused on solving real-world problems.
+### Full-Stack Developer · AI/ML Enthusiast · Open-Source Contributor
 
-Currently exploring **AI/ML, Data Science, Full-Stack Development, System Design and Open Source.**
+Building modern web applications, AI-powered products and developer tools.
+
+[![GitHub](https://img.shields.io/badge/GitHub-RahilAlam929-181717?style=for-the-badge&logo=github)](https://github.com/RahilAlam929)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MD_Rahil-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
+
+</div>
 
 ---
 
-## 🧠 About Me
+## 🧑‍💻 About Me
 
 - 🎓 B.Tech CSE Student
-- 💻 Full-Stack Web Developer
+- 💻 Full-Stack Developer
 - 🤖 AI/ML & Data Science Enthusiast
 - 🌍 Open-Source Contributor
-- 🚀 Building AI-powered products
-- 🧩 Interested in Developer Tools & Automation
-- 📚 Always learning and experimenting
+- 🚀 Building AI-powered products and developer tools
+- 🧠 Exploring scalable systems, automation and intelligent applications
+- 📚 Always learning and building
 
 ---
 
 ## ⚡ Tech Stack
 
 ### Languages
-JavaScript • TypeScript • Python • Java • C++
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
 ### Frontend
-Next.js • React • Tailwind CSS
 
-### Backend
-Node.js • Express • FastAPI • REST APIs
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-### Database
-PostgreSQL • MongoDB • SQLite • Supabase
+### Backend & Database
 
-### AI / Data
-Python • Machine Learning • Data Science • LLM APIs
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
 ### Tools
-Git • GitHub • Docker • VS Code • Linux
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🔍 RuntimeLens
-Developer tool for analyzing binaries and generating code insights.
+### 🔬 RuntimeLens
+
+Developer tool for analyzing projects, code and technical issues.
+
+**Next.js · TypeScript · Prisma · SQLite**
 
 ### 🎵 Soundly
-Modern music streaming platform with a premium UI.
 
-### 🥋 KanaDojo
-Open-source Japanese learning platform.
+Modern music streaming application with a clean and responsive interface.
+
+**Next.js · TypeScript · Tailwind CSS**
 
 ### 🤖 AI for Social Good
-AI-powered solutions focused on accessibility and real-world impact.
+
+AI-powered solutions focused on solving real-world problems.
+
+**React · Next.js · Python · AI/ML**
+
+### 🏗️ BuildQuest
+
+A platform for building and experimenting with modern web products.
+
+**React · Next.js · TypeScript**
 
 ---
 
-## 🌍 Open Source
+# 🌍 Open Source
 
-I actively contribute to open-source projects through:
+### 🗺️ Developer Roadmap
 
-- Pull Requests
-- Bug fixes
-- Feature improvements
-- Content contributions
-- Documentation
-- Developer tooling
+Contributing to open-source developer education and documentation.
 
-### Recent Work
+- Documentation improvements
+- Data fetching explanations
+- Parallel vs Sequential fetching content
+- Technical examples and clarifications
 
-🔹 KanaDojo — i18n cleanup  
-🔹 KanaDojo — content contributions  
-🔹 Website redesign contributions  
-🔹 Bug fixes & repository improvements
+### 🇯🇵 KanaDojo
 
----
+Contributing to an open-source Japanese learning platform.
 
-## 📊 GitHub Stats
+- Japan facts
+- Japanese learning content
+- i18n improvements
+- Themes and content
+- Repository maintenance
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RahilAlam929&show_icons=true&theme=tokyonight&hide_border=true)
+### ⚙️ OpenElements
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RahilAlam929&layout=compact&theme=tokyonight&hide_border=true)
+Contributing to open-source web projects.
 
----
+- Dependabot configuration
+- GitHub Actions ecosystem
+- Dependency maintenance
 
-## 🔥 Contribution Streak
+### 🎬 Instant Movie Streamer
 
-![GitHub Streak](https://streak-stats.demolab.com?user=RahilAlam929&theme=tokyonight&hide_border=true)
+Improved Python project dependency setup by adding:
 
----
+```text
+requirements.txt  GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RahilAlam929&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahilAlam929&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"> </div>
+🔥 GitHub Streak
+<div align="center"> <img src="https://streak-stats.demolab.com?user=RahilAlam929&theme=tokyonight&hide_border=true"> </div>
+📈 Contribution Graph
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=RahilAlam929&theme=tokyo-night&hide_border=true&area=true"> </div>
+🏆 GitHub Trophies
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=RahilAlam929&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"> </div>  Full-Stack Development
+        ↓
+AI / Machine Learning
+        ↓
+Data Science
+        ↓
+Developer Tools
+        ↓
+Open Source
+        ↓
+Real-World Products  Open Source Journey
 
-## 📈 Contribution Graph
+I enjoy building, contributing and learning through real-world open-source projects.
 
-[![Rahil's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RahilAlam929&theme=tokyo-night)](https://github.com/RahilAlam929)
+Currently focusing on:
 
----
+🚀 Full-Stack Development
+🤖 AI/ML
+📊 Data Science
+🛠️ Developer Tools
+🌍 Open Source
+☁️ Cloud & Scalable Systems
+<div align="center">
+💫 Build. Contribute. Learn. Repeat.
 
-## 🏆 GitHub Trophies
+⭐ Thanks for visiting my profile!
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RahilAlam929&theme=tokyonight&no-frame=true&margin-w=10)
-
----
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/RahilAlam929/RahilAlam929/output/github-contribution-grid-snake.svg)
-
----
-
-## 🤝 Open Source Philosophy
-
-> Build. Learn. Contribute. Repeat.
-
-I believe the best way to become a better developer is to build real projects, contribute to real communities, and learn from other developers.
-
----
-
-## 📫 Connect With Me
-
-💻 GitHub: [@RahilAlam929](https://github.com/RahilAlam929)
-
-⭐ If you find my projects useful, consider giving them a star!
-
+</div> EOF ```
