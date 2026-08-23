@@ -26,7 +26,7 @@ products using modern web technologies and AI.
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 ### Languages
 
