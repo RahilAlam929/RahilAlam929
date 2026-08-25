@@ -21,7 +21,7 @@ Building modern web applications, AI-powered products and developer tools.
 -  Open-Source Contributor
 -  Building AI-powered products and developer tools
 -  Exploring scalable systems, automation and intelligent applications
--  Always learning and building
+
 
 ---
 
