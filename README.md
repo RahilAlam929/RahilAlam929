@@ -2,7 +2,7 @@
 
 #  Hi, I'm MD Rahil
 
-### Full-Stack Developer · AI/ML Enthusiast · Open-Source Contributor
+### Full-Stack web Developer · AI/ML Enthusiast · Open-Source Contributor
 
 Building modern web applications, AI-powered products and developer tools.
 
