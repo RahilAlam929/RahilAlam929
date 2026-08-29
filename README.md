@@ -67,6 +67,8 @@ A reusable GitHub Action that analyzes repository health and generates a **score
 - uses: RahilAlam929/repo-health-action@v1
   with:
     min-score: "80"
+```
+
 🔗 https://github.com/RahilAlam929/repo-health-action
 
 📝 BLOGVERSE
