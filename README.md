@@ -1,4 +1,4 @@
-# 👋 Hi, I'm MD Rahil
+#  Hi, I'm MD Rahil
 
 ### Full-Stack Developer · AI/ML Enthusiast · Open-Source Contributor
 
@@ -8,19 +8,19 @@ Currently exploring **Next.js, TypeScript, Python, AI/ML, GitHub Actions, CI/CD,
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🎓 B.Tech CSE Student
-- 💻 Full-Stack Web Developer
-- 🤖 AI/ML & Data Science Enthusiast
-- 🌍 Open-Source Contributor
-- 🛠️ Building developer tools and AI-powered products
-- ⚙️ Interested in automation, CI/CD and scalable systems
-- 🚀 Turning ideas into working products
+-  B.Tech CSE Student
+-  Full-Stack Web Developer
+-  AI/ML & Data Science Enthusiast
+-  Open-Source Contributor
+-  Building developer tools and AI-powered products
+-  Interested in automation, CI/CD and scalable systems
+   Turning ideas into working products
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 ### Languages
 <p>
@@ -45,13 +45,13 @@ Currently exploring **Next.js, TypeScript, Python, AI/ML, GitHub Actions, CI/CD,
 ---
 
 
-# 🚀 Featured Projects
+#  Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-## 🏥 Repo Health Action
+##  Repo Health Action
 
 **Automated repository quality & health checker**
 
@@ -60,11 +60,11 @@ Reusable GitHub Action that analyzes repository quality, calculates a health sco
 **Tech:** `GitHub Actions` `Bash` `YAML` `CI/CD`
 
 **Highlights**
-- 📊 Health Score /100
-- 🎓 Automatic Grade
-- 🛡️ Minimum Score Gate
-- 🤖 PR Health Reports
-- 📄 README & LICENSE Checks
+-  Health Score /100
+-  Automatic Grade
+-  Minimum Score Gate
+-  PR Health Reports
+-  README & LICENSE Checks
 
 <a href="https://github.com/RahilAlam929/repo-health-action">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-111827?style=for-the-badge&logo=github" />
@@ -73,7 +73,7 @@ Reusable GitHub Action that analyzes repository quality, calculates a health sco
 </td>
 <td width="50%" valign="top">
 
-## 📝 BLOGVERSE
+## BLOGVERSE
 
 **Modern developer blogging platform**
 
@@ -82,11 +82,11 @@ Create, discover and share technical content through a modern blogging experienc
 **Tech:** `Next.js` `TypeScript` `Supabase` `Tailwind CSS`
 
 **Highlights**
-- ✍️ Create & publish blogs
-- 🔎 Discover technical content
-- 🔐 Supabase integration
-- 📱 Responsive UI
-- ⚡ Modern architecture
+- Create & publish blogs
+-  Discover technical content
+-  Supabase integration
+-  Responsive UI
+-  Modern architecture
 
 <a href="https://github.com/RahilAlam929/BLOGVERSE">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-111827?style=for-the-badge&logo=github" />
@@ -107,10 +107,10 @@ Developer-focused tool for analyzing projects, binaries, code and technical issu
 **Tech:** `Next.js` `TypeScript` `Prisma` `SQLite`
 
 **Highlights**
-- 🔬 Project Analysis
-- 📦 Binary Analysis
-- 🧠 Technical Findings
-- 🗄️ Prisma Database
+-  Project Analysis
+-  Binary Analysis
+-  Technical Findings
+-  Prisma Database
 - ⚡ Next.js
 
 <a href="https://github.com/RahilAlam929/RuntimeLens">
@@ -120,7 +120,7 @@ Developer-focused tool for analyzing projects, binaries, code and technical issu
 </td>
 <td width="50%" valign="top">
 
-## 🌐 NeoForage
+##  NeoForage
 
 **Modern web development project**
 
@@ -129,10 +129,10 @@ Focused on experimenting with scalable web experiences and modern development pa
 **Tech:** `TypeScript` `Web Development`
 
 **Highlights**
-- 🌐 Modern Web Stack
-- 🧩 Modular Development
-- ⚡ TypeScript
-- 🚀 Experimentation
+-  Modern Web Stack
+-  Modular Development
+-  TypeScript
+-  Experimentation
 
 <a href="https://github.com/RahilAlam929/NeoForage">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-111827?style=for-the-badge&logo=github" />
@@ -144,7 +144,7 @@ Focused on experimenting with scalable web experiences and modern development pa
 <tr>
 <td width="50%" valign="top">
 
-## 🧩 BuildQuest
+##  BuildQuest
 
 **Modern product-building platform**
 
@@ -153,10 +153,10 @@ Platform for building and experimenting with modern web products.
 **Tech:** `React` `Next.js` `TypeScript`
 
 **Highlights**
-- ⚛️ React
-- ▲ Next.js
-- 📦 TypeScript
-- 🚀 Product Development
+-  React
+-  Next.js
+-  TypeScript
+-  Product Development
 
 <a href="https://github.com/RahilAlam929/BuildQuest">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-111827?style=for-the-badge&logo=github" />
@@ -174,10 +174,10 @@ Clean and responsive music-focused web application.
 **Tech:** `Next.js` `TypeScript` `Tailwind CSS`
 
 **Highlights**
-- 🎵 Music Experience
-- ⚡ Next.js
-- 🎨 Tailwind CSS
-- 📱 Responsive Design
+-  Music Experience
+- Next.js
+-  Tailwind CSS
+-  Responsive Design
 
 <a href="https://github.com/RahilAlam929/soundly">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-111827?style=for-the-badge&logo=github" />
@@ -189,7 +189,7 @@ Clean and responsive music-focused web application.
 <tr>
 <td width="50%" valign="top">
 
-## 🎓 StudentOS
+##  StudentOS
 
 **Student productivity & learning project**
 
@@ -198,9 +198,9 @@ Student-focused project exploring productivity and learning workflows.
 **Tech:** `Java`
 
 **Highlights**
-- 🎓 Student Focused
-- 📚 Learning Workflows
-- ⚙️ Productivity
+-  Student Focused
+-  Learning Workflows
+-  Productivity
 
 <a href="https://github.com/RahilAlam929/StudentOs">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-111827?style=for-the-badge&logo=github" />
@@ -209,7 +209,7 @@ Student-focused project exploring productivity and learning workflows.
 </td>
 <td width="50%" valign="top">
 
-## 🤖 AI for Social Good
+##  AI for Social Good
 
 **AI-powered solutions for real-world problems**
 
@@ -218,10 +218,10 @@ Exploring accessible AI solutions focused on social impact and practical applica
 **Tech:** `Python` `React` `Next.js` `AI/ML`
 
 **Highlights**
-- 🤖 AI/ML
-- 🌍 Social Impact
-- 🧠 Intelligent Systems
-- 🚀 Real-world Applications
+-  AI/ML
+-  Social Impact
+-  Intelligent Systems
+-  Real-world Applications
 
 </td>
 </tr>
@@ -229,27 +229,27 @@ Exploring accessible AI solutions focused on social impact and practical applica
 
 ---
 
-# 🌍 Open Source Contributions
+#  Open Source Contributions
 
-## 🗺️ Developer Roadmap
+##  Developer Roadmap
 
-- 📚 Documentation improvements
-- 🔄 Data fetching explanations
-- ⚡ Parallel vs Sequential fetching
-- 💡 Technical examples
+-  Documentation improvements
+  - Data fetching explanations
+-  Parallel vs Sequential fetching
+-  Technical examples
 
-## 🇯🇵 KanaDojo
+##  KanaDojo
 
-- 🇯🇵 Japan facts
-- 📚 Japanese learning content
-- 🌐 i18n improvements
-- 🔧 Repository maintenance
+-  Japan facts
+-  Japanese learning content
+-  i18n improvements
+-  Repository maintenance
 
 ## ⚡ OpenElements
 
-- 🤖 Dependabot configuration
-- ⚙️ GitHub Actions ecosystem
-- 📦 Dependency maintenance
+-  Dependabot configuration
+-  GitHub Actions ecosystem
+-  Dependency maintenance
 
 ## 🎬 Instant Movie Streamer
 
@@ -265,19 +265,19 @@ Currently building projects that combine **software engineering + AI + automatio
 
 ---
 
-# 🏆 Open Source Highlights
+# Open Source Highlights
 
-- 🏥 Built a reusable GitHub Action for repository health
-- 🤖 Added automated PR health reporting
-- 🛡️ Implemented configurable CI quality gates
-- 🌍 Contributed to multiple open-source projects
-- 📝 Improved developer documentation
-- ⚙️ Worked with GitHub Actions and CI/CD
-- 🚀 Building and maintaining public repositories
+-  Built a reusable GitHub Action for repository health
+-  Added automated PR health reporting
+-  Implemented configurable CI quality gates
+-  Contributed to multiple open-source projects
+-  Improved developer documentation
+-  Worked with GitHub Actions and CI/CD
+-  Building and maintaining public repositories
 
 ---
 
-# 📊 GitHub
+#  GitHub
 
 <p align="left">
 <img src="https://img.shields.io/github/followers/RahilAlam929?style=for-the-badge&logo=github" />
@@ -287,7 +287,7 @@ Currently building projects that combine **software engineering + AI + automatio
 
 ---
 
-# 📫 Connect With Me
+#  Connect With Me
 
 <p align="left">
 <a href="https://github.com/RahilAlam929">
@@ -300,6 +300,6 @@ Currently building projects that combine **software engineering + AI + automatio
 
 ---
 
-### 💡 Build. Break. Learn. Contribute. Repeat.
+###  Build. Break. Learn. Contribute. Repeat.
 
-⭐ If you find my projects useful, consider giving them a star.
+ If you find my projects useful, consider giving them a star.
