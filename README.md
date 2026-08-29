@@ -44,142 +44,262 @@ Currently exploring **Next.js, TypeScript, Python, AI/ML, GitHub Actions, CI/CD,
 
 ---
 
-# 🔥 Featured Projects
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ## 🏥 Repo Health Action
 
-A reusable GitHub Action that analyzes repository health and generates a **score + grade**.
+**Automated repository quality & health checker**
 
-### Features
+Reusable GitHub Action that analyzes repository quality, calculates a health score, assigns a grade, and enforces configurable quality gates.
 
-- 📊 Health score `/100`
-- 🎓 Automatic health grade
-- 📄 README validation
-- ⚖️ LICENSE validation
-- ⚙️ GitHub Actions detection
-- 📁 Repository file-count check
-- 🛡️ Configurable minimum score quality gate
-- 🤖 Automatic Pull Request health reporting
+**Tech:** `GitHub Actions` `Bash` `YAML` `CI/CD`
 
-### Usage
+**Highlights**
+- 📊 Health Score /100
+- 🎓 Automatic Grade
+- 🛡️ Minimum Score Gate
+- 🤖 PR Health Reports
+- 📄 README & LICENSE Checks
 
-```yaml
-- uses: RahilAlam929/repo-health-action@v1
-  with:
-    min-score: "80"
-```
+<a href="https://github.com/RahilAlam929/repo-health-action">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-111827?style=for-the-badge&logo=github" />
+</a>
 
-🔗 https://github.com/RahilAlam929/repo-health-action
+</td>
+<td width="50%" valign="top">
 
-📝 BLOGVERSE
+## 📝 BLOGVERSE
 
-Modern developer blogging platform for discovering, creating and sharing technical content.
+**Modern developer blogging platform**
 
-Tech: Next.js · TypeScript · Supabase · Tailwind CSS
+Create, discover and share technical content through a modern blogging experience.
 
-🔗 https://github.com/RahilAlam929/BLOGVERSE
+**Tech:** `Next.js` `TypeScript` `Supabase` `Tailwind CSS`
 
-🔍 RuntimeLens
+**Highlights**
+- ✍️ Create & publish blogs
+- 🔎 Discover technical content
+- 🔐 Supabase integration
+- 📱 Responsive UI
+- ⚡ Modern architecture
 
-Developer tool for analyzing projects, binaries, code and technical issues.
+<a href="https://github.com/RahilAlam929/BLOGVERSE">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-111827?style=for-the-badge&logo=github" />
+</a>
 
-Tech: Next.js · TypeScript · Prisma · SQLite
+</td>
+</tr>
 
-🔗 https://github.com/RahilAlam929/RuntimeLens
+<tr>
+<td width="50%" valign="top">
 
-🌐 NeoForage
+## 🔍 RuntimeLens
 
-Modern web project focused on building and experimenting with scalable developer experiences.
+**Developer analysis & project inspection platform**
 
-Tech: TypeScript · Web Development
+Developer-focused tool for analyzing projects, binaries, code and technical issues.
 
-🔗 https://github.com/RahilAlam929/NeoForage
+**Tech:** `Next.js` `TypeScript` `Prisma` `SQLite`
 
-🧩 BuildQuest
+**Highlights**
+- 🔬 Project Analysis
+- 📦 Binary Analysis
+- 🧠 Technical Findings
+- 🗄️ Prisma Database
+- ⚡ Next.js
+
+<a href="https://github.com/RahilAlam929/RuntimeLens">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-111827?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+## 🌐 NeoForage
+
+**Modern web development project**
+
+Focused on experimenting with scalable web experiences and modern development patterns.
+
+**Tech:** `TypeScript` `Web Development`
+
+**Highlights**
+- 🌐 Modern Web Stack
+- 🧩 Modular Development
+- ⚡ TypeScript
+- 🚀 Experimentation
+
+<a href="https://github.com/RahilAlam929/NeoForage">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-111827?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+## 🧩 BuildQuest
+
+**Modern product-building platform**
 
 Platform for building and experimenting with modern web products.
 
-Tech: React · Next.js · TypeScript
+**Tech:** `React` `Next.js` `TypeScript`
 
-🔗 https://github.com/RahilAlam929/BuildQuest
+**Highlights**
+- ⚛️ React
+- ▲ Next.js
+- 📦 TypeScript
+- 🚀 Product Development
 
-🎵 Soundly
+<a href="https://github.com/RahilAlam929/BuildQuest">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-111827?style=for-the-badge&logo=github" />
+</a>
 
-Modern music streaming application with a clean and responsive interface.
+</td>
+<td width="50%" valign="top">
 
-Tech: Next.js · TypeScript · Tailwind CSS
+## 🎵 Soundly
 
-🔗 https://github.com/RahilAlam929/soundly
+**Modern music streaming experience**
 
-🎓 StudentOS
+Clean and responsive music-focused web application.
 
-Student-focused software project exploring productivity and learning workflows.
+**Tech:** `Next.js` `TypeScript` `Tailwind CSS`
 
-Tech: Java
+**Highlights**
+- 🎵 Music Experience
+- ⚡ Next.js
+- 🎨 Tailwind CSS
+- 📱 Responsive Design
 
-🔗 https://github.com/RahilAlam929/StudentOs
+<a href="https://github.com/RahilAlam929/soundly">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-111827?style=for-the-badge&logo=github" />
+</a>
 
-🤖 AI for Social Good
+</td>
+</tr>
 
-AI-powered solutions focused on solving real-world problems through accessible and intelligent technology.
+<tr>
+<td width="50%" valign="top">
 
-Tech: React · Next.js · Python · AI/ML
+## 🎓 StudentOS
 
-🌍 Open Source Contributions
-🗺️ Developer Roadmap
+**Student productivity & learning project**
 
-Contributing to developer education and technical documentation.
+Student-focused project exploring productivity and learning workflows.
 
-📚 Documentation improvements
-🔄 Data fetching explanations
-⚡ Parallel vs Sequential fetching
-💡 Technical examples and clarifications
-🇯🇵 KanaDojo
+**Tech:** `Java`
 
-Contributing to an open-source Japanese learning platform.
+**Highlights**
+- 🎓 Student Focused
+- 📚 Learning Workflows
+- ⚙️ Productivity
 
-🇯🇵 Japan facts
-📚 Japanese learning content
-🌐 i18n improvements
-🔧 Repository maintenance
-⚡ OpenElements
+<a href="https://github.com/RahilAlam929/StudentOs">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-111827?style=for-the-badge&logo=github" />
+</a>
 
-Contributing to open-source web projects.
+</td>
+<td width="50%" valign="top">
 
-🤖 Dependabot configuration
-⚙️ GitHub Actions ecosystem
-📦 Dependency maintenance
-🎬 Instant Movie Streamer
+## 🤖 AI for Social Good
 
-Improved a Python project dependency setup by adding project requirements configuration.
+**AI-powered solutions for real-world problems**
 
-📈 Current Focus
-Full-Stack Development
-        ↓
-AI / ML
-        ↓
-Developer Tools
-        ↓
-GitHub Automation
-        ↓
-CI/CD
-        ↓
-Open Source
+Exploring accessible AI solutions focused on social impact and practical applications.
 
-Currently building projects that combine software engineering + AI + automation.
+**Tech:** `Python` `React` `Next.js` `AI/ML`
 
-🏆 Open Source Highlights
-🏥 Built a reusable GitHub Action for repository health
-🤖 Added automated PR health reporting
-🛡️ Implemented configurable CI quality gates
-🌍 Contributed to multiple open-source projects
-📝 Improved developer documentation
-⚙️ Worked with GitHub Actions and CI/CD workflows
-🚀 Building and maintaining multiple public repositories
-📊 GitHub
-<p align="left"> <img src="https://img.shields.io/github/followers/RahilAlam929?style=for-the-badge&logo=github" /> <img src="https://img.shields.io/github/stars/RahilAlam929?style=for-the-badge&logo=github" /> <img src="https://img.shields.io/github/repos/RahilAlam929?style=for-the-badge&logo=github" /> </p>
-📫 Connect With Me
-<p align="left"> <a href="https://github.com/RahilAlam929"> <img src="https://img.shields.io/badge/GitHub-RahilAlam929-black?style=for-the-badge&logo=github" /> </a> <a href="https://www.linkedin.com/in/md-rahil-a070b3329/"> <img src="https://img.shields.io/badge/LinkedIn-MD%20Rahil-blue?style=for-the-badge&logo=linkedin" /> </a> </p>
-💡 Build. Break. Learn. Contribute. Repeat.
+**Highlights**
+- 🤖 AI/ML
+- 🌍 Social Impact
+- 🧠 Intelligent Systems
+- 🚀 Real-world Applications
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🌍 Open Source Contributions
+
+## 🗺️ Developer Roadmap
+
+- 📚 Documentation improvements
+- 🔄 Data fetching explanations
+- ⚡ Parallel vs Sequential fetching
+- 💡 Technical examples
+
+## 🇯🇵 KanaDojo
+
+- 🇯🇵 Japan facts
+- 📚 Japanese learning content
+- 🌐 i18n improvements
+- 🔧 Repository maintenance
+
+## ⚡ OpenElements
+
+- 🤖 Dependabot configuration
+- ⚙️ GitHub Actions ecosystem
+- 📦 Dependency maintenance
+
+## 🎬 Instant Movie Streamer
+
+Improved Python project dependency setup with requirements configuration.
+
+---
+
+# 📈 Current Focus
+
+**Full-Stack Development → AI/ML → Developer Tools → GitHub Automation → CI/CD → Open Source**
+
+Currently building projects that combine **software engineering + AI + automation**.
+
+---
+
+# 🏆 Open Source Highlights
+
+- 🏥 Built a reusable GitHub Action for repository health
+- 🤖 Added automated PR health reporting
+- 🛡️ Implemented configurable CI quality gates
+- 🌍 Contributed to multiple open-source projects
+- 📝 Improved developer documentation
+- ⚙️ Worked with GitHub Actions and CI/CD
+- 🚀 Building and maintaining public repositories
+
+---
+
+# 📊 GitHub
+
+<p align="left">
+<img src="https://img.shields.io/github/followers/RahilAlam929?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/github/stars/RahilAlam929?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/github/repos/RahilAlam929?style=for-the-badge&logo=github" />
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+<a href="https://github.com/RahilAlam929">
+<img src="https://img.shields.io/badge/GitHub-RahilAlam929-black?style=for-the-badge&logo=github" />
+</a>
+<a href="https://www.linkedin.com/in/md-rahil-a070b3329/">
+<img src="https://img.shields.io/badge/LinkedIn-MD%20Rahil-blue?style=for-the-badge&logo=linkedin" />
+</a>
+</p>
+
+---
+
+### 💡 Build. Break. Learn. Contribute. Repeat.
 
 ⭐ If you find my projects useful, consider giving them a star.
