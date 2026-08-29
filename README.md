@@ -1,123 +1,190 @@
-<div align="center">
+# 👋 Hi, I'm MD Rahil
 
-#  Hi, I'm MD Rahil
+### Full-Stack Developer · AI/ML Enthusiast · Open-Source Contributor
 
-### Full-Stack web Developer · AI/ML Enthusiast · Open-Source Contributor
+I build modern web applications, AI-powered products, developer tools,
+automation workflows, and open-source projects.
 
-Building modern web applications, AI-powered products and developer tools.
-
-[![GitHub](https://img.shields.io/badge/GitHub-RahilAlam929-181717?style=for-the-badge&logo=github)](https://github.com/RahilAlam929)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-MD_Rahil-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
-
-</div>
+Currently exploring **Next.js, TypeScript, Python, AI/ML, GitHub Actions,
+CI/CD, and scalable developer tooling.**
 
 ---
 
-##  About Me
+## 🚀 About Me
 
--  B.Tech CSE Student
-  Full-Stack Developer
--  AI/ML & Data Science Enthusiast
--  Open-Source Contributor
--  Building AI-powered products and developer tools
--  Exploring scalable systems, automation and intelligent applications
-
+- 🎓 B.Tech CSE Student
+- 💻 Full-Stack Web Developer
+- 🤖 AI/ML & Data Science Enthusiast
+- 🌍 Open-Source Contributor
+- 🛠️ Building developer tools and AI-powered products
+- ⚙️ Interested in automation, CI/CD and scalable systems
+- 🚀 Turning ideas into working products
 
 ---
 
-## ⚡ Tech Stack
+## 🧰 Tech Stack
 
 ### Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=typescript,javascript,python,java,dart" />
+</p>
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind" />
+</p>
 
 ### Backend & Database
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,python,fastapi,postgres,supabase,prisma" />
+</p>
 
-### Tools
+### DevOps & Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,vscode" />
+</p>
 
 ---
 
-#  Featured Projects
+# 🔥 Featured Projects
 
-###  RuntimeLens
+## 🏥 Repo Health Action
 
-Developer tool for analyzing projects, code and technical issues.
+Reusable GitHub Action that analyzes repository health and generates a
+**score + grade**.
 
-**Next.js · TypeScript · Prisma · SQLite**
+### Features
 
-###  Soundly
+- 📊 Health score `/100`
+- 🎓 Automatic health grade
+- 📄 README validation
+- ⚖️ LICENSE validation
+- ⚙️ GitHub Actions detection
+- 📁 Repository file-count check
+- 🛡️ Configurable minimum score quality gate
+- 🤖 Automatic Pull Request health reporting
+
+```yaml
+- uses: RahilAlam929/repo-health-action@v1
+  with:
+    min-score: "80" 🔗 https://github.com/RahilAlam929/repo-health-action
+
+📝 BLOGVERSE
+
+Modern developer blogging platform for discovering, creating and sharing
+technical content.
+
+Tech: Next.js · TypeScript · Supabase · Tailwind CSS
+
+🔗 https://github.com/RahilAlam929/BLOGVERSE
+
+🔍 RuntimeLens
+
+Developer tool for analyzing projects, binaries, code and technical issues.
+
+Tech: Next.js · TypeScript · Prisma · SQLite
+
+🔗 https://github.com/RahilAlam929/RuntimeLens
+
+🌐 NeoForage
+
+Modern web project focused on building and experimenting with scalable
+developer experiences.
+
+Tech: TypeScript · Web Development
+
+🔗 https://github.com/RahilAlam929/NeoForage
+
+🧩 BuildQuest
+
+Platform for building and experimenting with modern web products.
+
+Tech: React · Next.js · TypeScript
+
+🔗 https://github.com/RahilAlam929/BuildQuest
+
+🎵 Soundly
 
 Modern music streaming application with a clean and responsive interface.
 
-**Next.js · TypeScript · Tailwind CSS**
+Tech: Next.js · TypeScript · Tailwind CSS
 
-###  AI for Social Good
+🔗 https://github.com/RahilAlam929/soundly
 
-AI-powered solutions focused on solving real-world problems.
+🎓 StudentOS
 
-**React · Next.js · Python · AI/ML**
+Student-focused software project exploring productivity and learning
+workflows.
 
-###  BuildQuest
+Tech: Java
 
-A platform for building and experimenting with modern web products.
+🔗 https://github.com/RahilAlam929/StudentOs
 
-**React · Next.js · TypeScript**
+🤖 AI for Social Good
 
----
+AI-powered solutions focused on solving real-world problems through
+accessible and intelligent technology.
 
-#  Open Source
+Tech: React · Next.js · Python · AI/ML
 
-###  Developer Roadmap
+🌍 Open Source Contributions
+🗺️ Developer Roadmap
 
-Contributing to open-source developer education and documentation.
+Contributing to developer education and technical documentation.
 
-- Documentation improvements
-- Data fetching explanations
-- Parallel vs Sequential fetching content
-- Technical examples and clarifications
-
-###  KanaDojo
+Documentation improvements
+Data fetching explanations
+Parallel vs Sequential fetching
+Technical examples and clarifications
+🇯🇵 KanaDojo
 
 Contributing to an open-source Japanese learning platform.
 
-- Japan facts
-- Japanese learning content
-- i18n improvements
-- Themes and content
-- Repository maintenance
-
-###  OpenElements
+Japan facts
+Japanese learning content
+i18n improvements
+Repository maintenance
+⚡ OpenElements
 
 Contributing to open-source web projects.
 
-- Dependabot configuration
-- GitHub Actions ecosystem
-- Dependency maintenance
+Dependabot configuration
+GitHub Actions ecosystem
+Dependency maintenance
+🎬 Instant Movie Streamer
 
-###  Instant Movie Streamer
+Improved Python project dependency setup by adding project requirements
+configuration.
 
-Improved Python project dependency setup by adding:
+📈 Current Focus
+Full-Stack Development
+        ↓
+AI / ML
+        ↓
+Developer Tools
+        ↓
+GitHub Automation
+        ↓
+CI/CD
+        ↓
+Open Source
 
-```text
-requirements.txt
+Currently building projects that combine software engineering + AI +
+automation.
+
+🏆 Open Source Highlights
+🏥 Built a reusable GitHub Action for repository health
+🤖 Added automated PR health reporting
+🛡️ Implemented configurable CI quality gates
+🌍 Contributed to multiple open-source projects
+📝 Improved developer documentation
+⚙️ Worked with GitHub Actions and CI/CD workflows
+🚀 Building and maintaining multiple public repositories
+📊 GitHub
+<p align="left"> <img src="https://img.shields.io/github/followers/RahilAlam929?style=for-the-badge&logo=github" /> <img src="https://img.shields.io/github/stars/RahilAlam929?style=for-the-badge&logo=github" /> <img src="https://img.shields.io/github/repos/RahilAlam929?style=for-the-badge&logo=github" /> </p>
+📫 Connect With Me
+<p align="left"> <a href="https://github.com/RahilAlam929"> <img src="https://img.shields.io/badge/GitHub-RahilAlam929-black?style=for-the-badge&logo=github" /> </a> <a href="https://www.linkedin.com/in/md-rahil-a070b3329/"> <img src="https://img.shields.io/badge/LinkedIn-MD%20Rahil-blue?style=for-the-badge&logo=linkedin" /> </a> </p>
