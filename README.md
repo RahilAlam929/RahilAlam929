@@ -306,7 +306,7 @@ Currently building projects that combine **software engineering + AI + automatio
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
 
@@ -316,7 +316,7 @@ Currently building projects that combine **software engineering + AI + automatio
 
 </div>
 
-## 📈 Activity Graph
+##  Activity Graph
 
 <div align="center">
 
@@ -324,7 +324,7 @@ Currently building projects that combine **software engineering + AI + automatio
 
 </div>
 
-## 📋 GitHub Profile Summary
+##  GitHub Profile Summary
 
 <div align="center">
 
