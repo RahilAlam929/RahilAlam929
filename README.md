@@ -45,14 +45,14 @@ Currently exploring **Next.js, TypeScript, Python, AI/ML, GitHub Actions, CI/CD,
 ---
 
 
-# 🚀 Featured Projects
+#  Featured Projects
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-## 🤖 DevPilot
+##  DevPilot
 
 **AI-powered developer platform**
 
@@ -61,11 +61,11 @@ A developer-focused platform for managing projects, repositories, and developmen
 **Tech:** `Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Alembic` `Docker`
 
 **Highlights**
-- ⚡ FastAPI REST API
-- 🗄️ PostgreSQL Database
-- 📁 Project & Repository Management
-- 🔄 SQLAlchemy + Alembic
-- 🐳 Docker Development Environment
+-  FastAPI REST API
+-  PostgreSQL Database
+-  Project & Repository Management
+-  SQLAlchemy + Alembic
+-  Docker Development Environment
 
 <a href="https://github.com/RahilAlam929/DevPilot">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-111827?style=for-the-badge&logo=github" />
@@ -75,7 +75,7 @@ A developer-focused platform for managing projects, repositories, and developmen
 
 <td width="50%" valign="top">
 
-## 🩺 Repo Health Action
+##  Repo Health Action
 
 **Automated repository quality & health checker**
 
@@ -84,11 +84,11 @@ Reusable GitHub Action that analyzes repository quality, calculates a health sco
 **Tech:** `GitHub Actions` `Bash` `YAML` `CI/CD`
 
 **Highlights**
-- 📊 Health Score /100
-- 🏆 Automatic Grade
-- 🚦 Minimum Score Gate
-- 📝 PR Health Reports
-- 📚 README & LICENSE Checks
+-  Health Score /100
+-  Automatic Grade
+-  Minimum Score Gate
+-  PR Health Reports
+-  README & LICENSE Checks
 
 <a href="https://github.com/RahilAlam929/repo-health-action">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-111827?style=for-the-badge&logo=github" />
@@ -102,7 +102,7 @@ Reusable GitHub Action that analyzes repository quality, calculates a health sco
 
 <td width="50%" valign="top">
 
-## 🌐 BLOGVERSE
+##  BLOGVERSE
 
 **Modern developer blogging platform**
 
@@ -111,11 +111,11 @@ Create, discover and share technical content through a modern blogging experienc
 **Tech:** `Next.js` `TypeScript` `Supabase` `Tailwind CSS`
 
 **Highlights**
-- ✍️ Create & publish blogs
-- 🔎 Discover technical content
-- 🗄️ Supabase integration
-- 📱 Responsive UI
-- 🏗️ Modern architecture
+-  Create & publish blogs
+-  Discover technical content
+-  Supabase integration
+-  Responsive UI
+-  Modern architecture
 
 <a href="https://github.com/RahilAlam929/BLOGVERSE">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-111827?style=for-the-badge&logo=github" />
@@ -125,7 +125,7 @@ Create, discover and share technical content through a modern blogging experienc
 
 <td width="50%" valign="top">
 
-## 🔍 RuntimeLens
+##  RuntimeLens
 
 **Developer analysis & project inspection platform**
 
@@ -134,11 +134,11 @@ Developer-focused tool for analyzing projects, binaries, code and technical issu
 **Tech:** `Next.js` `TypeScript` `Prisma` `SQLite`
 
 **Highlights**
-- 🔬 Project Analysis
-- 📦 Binary Analysis
-- 🧠 Technical Findings
-- 🗄️ Prisma Database
-- ⚡ Next.js
+-  Project Analysis
+-  Binary Analysis
+-  Technical Findings
+-  Prisma Database
+-  Next.js
 
 <a href="https://github.com/RahilAlam929/RuntimeLens">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-111827?style=for-the-badge&logo=github" />
@@ -161,10 +161,10 @@ Focused on experimenting with scalable web experiences and modern development pa
 **Tech:** `TypeScript` `Web Development`
 
 **Highlights**
-- 🧩 Modern Web Stack
-- 📦 Modular Development
-- 🔷 TypeScript
-- 🧪 Experimentation
+-  Modern Web Stack
+-  Modular Development
+-  TypeScript
+-  Experimentation
 
 <a href="https://github.com/RahilAlam929/NeoForage">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-111827?style=for-the-badge&logo=github" />
@@ -174,7 +174,7 @@ Focused on experimenting with scalable web experiences and modern development pa
 
 <td width="50%" valign="top">
 
-## 🛠️ BuildQuest
+##  BuildQuest
 
 **Modern product-building platform**
 
@@ -183,10 +183,10 @@ Platform for building and experimenting with modern web products.
 **Tech:** `React` `Next.js` `TypeScript`
 
 **Highlights**
-- ⚛️ React
-- ▲ Next.js
-- 🔷 TypeScript
-- 🚀 Product Development
+-  React
+-  Next.js
+-  TypeScript
+-  Product Development
 
 <a href="https://github.com/RahilAlam929/BuildQuest">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-111827?style=for-the-badge&logo=github" />
@@ -200,7 +200,7 @@ Platform for building and experimenting with modern web products.
 
 <td width="50%" valign="top">
 
-## 🎵 Soundly
+##  Soundly
 
 **Modern music streaming experience**
 
@@ -209,10 +209,10 @@ Clean and responsive music-focused web application.
 **Tech:** `Next.js` `TypeScript` `Tailwind CSS`
 
 **Highlights**
-- 🎧 Music Experience
-- ▲ Next.js
-- 🎨 Tailwind CSS
-- 📱 Responsive Design
+-  Music Experience
+-  Next.js
+-  Tailwind CSS
+-  Responsive Design
 
 <a href="https://github.com/RahilAlam929/soundly">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-111827?style=for-the-badge&logo=github" />
@@ -222,7 +222,7 @@ Clean and responsive music-focused web application.
 
 <td width="50%" valign="top">
 
-## 🎓 StudentOS
+##  StudentOS
 
 **Student productivity & learning project**
 
@@ -231,10 +231,10 @@ Student-focused project exploring productivity and learning workflows.
 **Tech:** `Java`
 
 **Highlights**
-- 🎓 Student Focused
-- 📚 Learning Workflows
-- ⚡ Productivity
-- 🧠 Learning Tools
+-  Student Focused
+-  Learning Workflows
+-  Productivity
+-  Learning Tools
 
 <a href="https://github.com/RahilAlam929/StudentOs">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-111827?style=for-the-badge&logo=github" />
@@ -248,7 +248,7 @@ Student-focused project exploring productivity and learning workflows.
 
 <td width="50%" valign="top">
 
-## 🤖 AI for Social Good
+##  AI for Social Good
 
 **AI-powered solutions for real-world problems**
 
@@ -257,16 +257,16 @@ Exploring accessible AI solutions focused on social impact and practical applica
 **Tech:** `Python` `React` `Next.js` `AI/ML`
 
 **Highlights**
-- 🤖 AI/ML
-- 🌍 Social Impact
-- 🧠 Intelligent Systems
-- 💡 Real-world Applications
+-  AI/ML
+-  Social Impact
+-  Intelligent Systems
+-  Real-world Applications
 
 </td>
 
 <td width="50%" valign="top">
 
-## 💻 More Projects
+##  More Projects
 
 **Building, experimenting & learning**
 
@@ -275,10 +275,10 @@ A growing collection of open-source projects, experiments and developer tools.
 **Focus:** `AI/ML` `Full Stack` `Developer Tools` `Open Source`
 
 **Highlights**
-- 🚀 Continuous Development
-- 🌱 Open Source
-- 🧪 New Experiments
-- 🛠️ Developer Projects
+-  Continuous Development
+-  Open Source
+-  New Experiments
+-  Developer Projects
 
 <a href="https://github.com/RahilAlam929?tab=repositories">
 <img src="https://img.shields.io/badge/VIEW_ALL_REPOS-111827?style=for-the-badge&logo=github" />
@@ -307,19 +307,19 @@ A growing collection of open-source projects, experiments and developer tools.
 -  i18n improvements
 -  Repository maintenance
 
-## ⚡ OpenElements
+##  OpenElements
 
 -  Dependabot configuration
 -  GitHub Actions ecosystem
 -  Dependency maintenance
 
-## 🎬 Instant Movie Streamer
+##  Instant Movie Streamer
 
 Improved Python project dependency setup with requirements configuration.
 
 ---
 
-# 📈 Current Focus
+#  Current Focus
 
 **Full-Stack Development → AI/ML → Developer Tools → GitHub Automation → CI/CD → Open Source**
 
@@ -368,7 +368,7 @@ Currently building projects that combine **software engineering + AI + automatio
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
 
@@ -378,7 +378,7 @@ Currently building projects that combine **software engineering + AI + automatio
 
 </div>
 
-## 📈 Activity Graph
+##  Activity Graph
 
 <div align="center">
 
@@ -386,7 +386,7 @@ Currently building projects that combine **software engineering + AI + automatio
 
 </div>
 
-## 📋 GitHub Profile Summary
+##  GitHub Profile Summary
 
 <div align="center">
 
