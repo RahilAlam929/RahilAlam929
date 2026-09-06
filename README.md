@@ -51,6 +51,31 @@ Currently exploring **Next.js, TypeScript, Python, AI/ML, GitHub Actions, CI/CD,
 <tr>
 <td width="50%" valign="top">
 
+<td width="50%" valign="top">
+
+## 🤖 DevPilot
+
+**AI-powered developer platform**
+
+A developer-focused platform for managing projects, repositories, and development workflows with a FastAPI backend and PostgreSQL.
+
+**Tech:** `Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Alembic` `Docker`
+
+**Highlights**
+-  FastAPI REST API
+-  PostgreSQL Database
+-  Project & Repository Management
+-  SQLAlchemy + Alembic
+-  Docker Development Environment
+
+<a href="https://github.com/RahilAlam929/DevPilot">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-111827?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+
+
+
 ##  Repo Health Action
 
 **Automated repository quality & health checker**
