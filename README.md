@@ -20,29 +20,9 @@ Currently exploring **Next.js, TypeScript, Python, AI/ML, GitHub Actions, CI/CD,
 
 ---
 
-##  Tech Stack
 
-### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=typescript,javascript,python,java,dart" />
-</p>
 
-### Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind" />
-</p>
 
-### Backend & Database
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,python,fastapi,postgres,supabase,prisma" />
-</p>
-
-### DevOps & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,vscode" />
-</p>
-
----
 
 
 #  Featured Projects
