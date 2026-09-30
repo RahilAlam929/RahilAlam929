@@ -136,7 +136,15 @@ Full-Stack Engineering · Backend Systems · REST API Design · AI/ML Pipelines 
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RahilAlam929&show_icons=true&theme=github_dark&hide_border=true)
+## GitHub Stats
+
+<div align="center">
+
+<img src="./github-stats.svg" height="195"/>
+&nbsp;&nbsp;
+<img src="./top-langs.svg" height="195"/>
+
+</div>
 
 ---
 
