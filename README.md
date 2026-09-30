@@ -1,6 +1,6 @@
 # Hi, I'm MD Rahil
 
-**Full-Stack Software Engineer · AI/ML Enthusiast · Open-Source Contributor**
+** Software Engineer · AI/ML Enthusiast · Open-Source Contributor**
 
 I build full-stack systems, developer tools, and automation workflows with a focus on backend architecture, code intelligence, and practical ML integration. My work spans REST API design, static analysis tooling, ML pipelines, and CI/CD automation.
 
