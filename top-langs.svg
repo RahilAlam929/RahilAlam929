@@ -1,0 +1,33 @@
+<svg width="350" height="214" xmlns="http://www.w3.org/2000/svg">
+  <rect width="350" height="214" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Title -->
+  <text x="20" y="35" font-size="15" fill="#e6edf3" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-weight="700">
+    Most Used Languages
+  </text>
+  <line x1="20" y1="48" x2="330" y2="48" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Bar -->
+  <rect x="20" y="95" width="310" height="8" rx="4" fill="#30363d"/>
+  <rect x="20" y="95" width="232" height="8" fill="#3572A5"/>
+  <rect x="252" y="95" width="42" height="8" fill="#e34c26"/>
+  <rect x="294" y="95" width="13" height="8" fill="#3178c6"/>
+  <rect x="307" y="95" width="8" height="8" fill="#663399"/>
+  <rect x="315" y="95" width="7" height="8" fill="#f1e05a"/>
+  <rect x="322" y="95" width="7" height="8" fill="#c6538c"/>
+
+  <!-- Legend -->
+  <circle cx="25" cy="124" r="5" fill="#3572A5"/>
+  <text x="36" y="128" font-size="11" fill="#e6edf3" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">Python <tspan fill="#8b949e">74.9%</tspan></text>
+  <circle cx="180" cy="124" r="5" fill="#e34c26"/>
+  <text x="191" y="128" font-size="11" fill="#e6edf3" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">HTML <tspan fill="#8b949e">13.5%</tspan></text>
+  <circle cx="25" cy="146" r="5" fill="#3178c6"/>
+  <text x="36" y="150" font-size="11" fill="#e6edf3" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">TypeScript <tspan fill="#8b949e">4.3%</tspan></text>
+  <circle cx="180" cy="146" r="5" fill="#663399"/>
+  <text x="191" y="150" font-size="11" fill="#e6edf3" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">CSS <tspan fill="#8b949e">2.7%</tspan></text>
+  <circle cx="25" cy="168" r="5" fill="#f1e05a"/>
+  <text x="36" y="172" font-size="11" fill="#e6edf3" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">JavaScript <tspan fill="#8b949e">2.4%</tspan></text>
+  <circle cx="180" cy="168" r="5" fill="#c6538c"/>
+  <text x="191" y="172" font-size="11" fill="#e6edf3" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">SCSS <tspan fill="#8b949e">2.3%</tspan></text>
+
+</svg>
