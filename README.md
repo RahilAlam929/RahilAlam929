@@ -1,358 +1,159 @@
-#  Hi, I'm MD Rahil
+# Hi, I'm MD Rahil
 
-### Software Engineer · AI/ML Enthusiast · Open-Source Contributor
+**Full-Stack Software Engineer · AI/ML Enthusiast · Open-Source Contributor**
 
-I build modern web applications, AI-powered products, developer tools, automation workflows, and open-source projects.
-
-Currently exploring **Next.js, TypeScript, Python, AI/ML, GitHub Actions, CI/CD, and scalable developer tooling.**
+I build full-stack systems, developer tools, and automation workflows with a focus on backend architecture, code intelligence, and practical ML integration. My work spans REST API design, static analysis tooling, ML pipelines, and CI/CD automation.
 
 ---
 
-##  About Me
+## Currently Building
 
--  B.Tech CSE Student
--  Full-Stack Web Developer
--  AI/ML & Data Science Enthusiast
--  Open-Source Contributor
--  Building developer tools and AI-powered products
--  Interested in automation, CI/CD and scalable systems
-   Turning ideas into working products
+- Code intelligence and static analysis platforms
+- ML pipelines for real-world classification problems
+- Full-stack applications with Next.js and FastAPI
+- Reusable GitHub Actions for repository automation
+- Open-source developer tools and infrastructure
 
 ---
 
+## Tech Stack
 
+**Languages**
+`Python` `TypeScript` `JavaScript` `Java`
 
+**Frontend**
+`Next.js` `React` `Tailwind CSS`
 
+**Backend**
+`FastAPI` `Spring Boot` `Node.js`
 
+**Databases**
+`PostgreSQL` `SQLite` `Prisma` `Alembic`
 
-#  Featured Projects
+**AI / ML**
+`scikit-learn` `Pandas` `NumPy`
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-##  DevPilot
-
-**AI-powered developer platform**
-
-A developer-focused platform for managing projects, repositories, and development workflows with a FastAPI backend and PostgreSQL.
-
-**Tech:** `Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Alembic` `Docker`
-
-**Highlights**
--  FastAPI REST API
--  PostgreSQL Database
--  Project & Repository Management
--  SQLAlchemy + Alembic
--  Docker Development Environment
-
-<a href="https://github.com/RahilAlam929/DevPilot">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-111827?style=for-the-badge&logo=github" />
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-##  Repo Health Action
-
-**Automated repository quality & health checker**
-
-Reusable GitHub Action that analyzes repository quality, calculates a health score, assigns a grade, and enforces configurable quality gates.
-
-**Tech:** `GitHub Actions` `Bash` `YAML` `CI/CD`
-
-**Highlights**
--  Health Score /100
--  Automatic Grade
--  Minimum Score Gate
--  PR Health Reports
--  README & LICENSE Checks
-
-<a href="https://github.com/RahilAlam929/repo-health-action">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-111827?style=for-the-badge&logo=github" />
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-##  BLOGVERSE
-
-**Modern developer blogging platform**
-
-Create, discover and share technical content through a modern blogging experience built for developers and technical writers.
-
-**Tech:** `Next.js` `TypeScript` `Supabase` `Tailwind CSS`
-
-**Highlights**
--  Create & publish blogs
--  Discover technical content
--  Supabase integration
--  Responsive UI
--  Modern architecture
-
-<a href="https://github.com/RahilAlam929/BLOGVERSE">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-111827?style=for-the-badge&logo=github" />
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-##  RuntimeLens
-
-**Developer analysis & project inspection platform**
-
-Developer-focused tool for analyzing projects, binaries, code and technical issues.
-
-**Tech:** `Next.js` `TypeScript` `Prisma` `SQLite`
-
-**Highlights**
--  Project Analysis
--  Binary Analysis
--  Technical Findings
--  Prisma Database
--  Next.js
-
-<a href="https://github.com/RahilAlam929/RuntimeLens">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-111827?style=for-the-badge&logo=github" />
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## ⚡ NeoForage
-
-**Modern web development project**
-
-Focused on experimenting with scalable web experiences and modern development patterns.
-
-**Tech:** `TypeScript` `Web Development`
-
-**Highlights**
--  Modern Web Stack
--  Modular Development
--  TypeScript
--  Experimentation
-
-<a href="https://github.com/RahilAlam929/NeoForage">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-111827?style=for-the-badge&logo=github" />
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-##  BuildQuest
-
-**Modern product-building platform**
-
-Platform for building and experimenting with modern web products.
-
-**Tech:** `React` `Next.js` `TypeScript`
-
-**Highlights**
--  React
--  Next.js
--  TypeScript
--  Product Development
-
-<a href="https://github.com/RahilAlam929/BuildQuest">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-111827?style=for-the-badge&logo=github" />
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-##  Soundly
-
-**Modern music streaming experience**
-
-Clean and responsive music-focused web application.
-
-**Tech:** `Next.js` `TypeScript` `Tailwind CSS`
-
-**Highlights**
--  Music Experience
--  Next.js
--  Tailwind CSS
--  Responsive Design
-
-<a href="https://github.com/RahilAlam929/soundly">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-111827?style=for-the-badge&logo=github" />
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-##  StudentOS
-
-**Student productivity & learning project**
-
-Student-focused project exploring productivity and learning workflows.
-
-**Tech:** `Java`
-
-**Highlights**
--  Student Focused
--  Learning Workflows
--  Productivity
--  Learning Tools
-
-<a href="https://github.com/RahilAlam929/StudentOs">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-111827?style=for-the-badge&logo=github" />
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-##  AI for Social Good
-
-**AI-powered solutions for real-world problems**
-
-Exploring accessible AI solutions focused on social impact and practical applications.
-
-**Tech:** `Python` `React` `Next.js` `AI/ML`
-
-**Highlights**
--  AI/ML
--  Social Impact
--  Intelligent Systems
--  Real-world Applications
-
-</td>
-
-<td width="50%" valign="top">
-
-##  More Projects
-
-**Building, experimenting & learning**
-
-A growing collection of open-source projects, experiments and developer tools.
-
-**Focus:** `AI/ML` `Full Stack` `Developer Tools` `Open Source`
-
-**Highlights**
--  Continuous Development
--  Open Source
--  New Experiments
--  Developer Projects
-
-<a href="https://github.com/RahilAlam929?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW_ALL_REPOS-111827?style=for-the-badge&logo=github" />
-</a>
-
-</td>
-
-</tr>
-</table>
+**DevOps & Infrastructure**
+`Docker` `GitHub Actions` `Bash` `Linux`
 
 ---
 
-#  Open Source Contributions
+## Featured Projects
 
-##  Developer Roadmap
+### [DevAnalyzeX](https://github.com/RahilAlam929/DevAnalyzeX)
 
--  Documentation improvements
-  - Data fetching explanations
--  Parallel vs Sequential fetching
--  Technical examples
+Full-stack static analysis platform that detects code quality, security, and maintainability issues across a repository via a REST API and Next.js dashboard.
 
-##  KanaDojo
+`Python` `FastAPI` `Next.js` `PostgreSQL` `Alembic` `Docker`
 
--  Japan facts
--  Japanese learning content
--  i18n improvements
--  Repository maintenance
-
-##  OpenElements
-
--  Dependabot configuration
--  GitHub Actions ecosystem
--  Dependency maintenance
-
-##  Instant Movie Streamer
-
-Improved Python project dependency setup with requirements configuration.
+- Asynchronous scan execution via FastAPI `BackgroundTasks` with lifecycle tracking (`pending → running → completed`)
+- Regex-based static analysis across 14 file extensions; findings bucketed by severity (`high / medium / low / info`)
+- JWT authentication with HttpOnly cookies and Argon2 password hashing; user-scoped access enforced at every layer
+- PostgreSQL schema managed via Alembic migrations; full Docker Compose service stack
 
 ---
 
-#  Current Focus
+### [FraudGuard AI](https://github.com/RahilAlam929/fraudguard-ai)
 
-**Full-Stack Development → AI/ML → Developer Tools → GitHub Automation → CI/CD → Open Source**
+End-to-end ML pipeline and REST API for credit card fraud detection on a severely imbalanced dataset (0.17% fraud rate).
 
-Currently building projects that combine **software engineering + AI + automation**.
+`Python` `scikit-learn` `FastAPI` `Pydantic` `Pandas`
 
----
-
-# Open Source Highlights
-
--  Built a reusable GitHub Action for repository health
--  Added automated PR health reporting
--  Implemented configurable CI quality gates
--  Contributed to multiple open-source projects
--  Improved developer documentation
--  Worked with GitHub Actions and CI/CD
--  Building and maintaining public repositories
+- Trains Logistic Regression and Random Forest classifiers with `class_weight="balanced"` to address class imbalance
+- Evaluated on PR-AUC, F1, and confusion matrix — metrics meaningful under severe imbalance
+- FastAPI inference service: accepts raw transaction data, applies saved scaler, returns fraud probability and three-tier risk level (`LOW / MEDIUM / HIGH`)
+- Includes threshold analysis for precision/recall trade-off exploration and automated API test suite
 
 ---
 
-#  GitHub
+### [StudentOS](https://github.com/RahilAlam929/StudentOs)
 
-<p align="left">
-<img src="https://img.shields.io/github/followers/RahilAlam929?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/github/stars/RahilAlam929?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/github/repos/RahilAlam929?style=for-the-badge&logo=github" />
-</p>
+Full-stack student lifecycle platform unifying academic tracking, project management, internship pipelines, and career planning in a single authenticated workspace.
 
----
+`Java` `Spring Boot` `Next.js` `PostgreSQL` `Docker Compose` `GitHub Actions`
 
-#  Connect With Me
-
-<p align="left">
-<a href="https://github.com/RahilAlam929">
-<img src="https://img.shields.io/badge/GitHub-RahilAlam929-black?style=for-the-badge&logo=github" />
-</a>
-<a href="https://www.linkedin.com/in/md-rahil-a070b3329/">
-<img src="https://img.shields.io/badge/LinkedIn-MD%20Rahil-blue?style=for-the-badge&logo=linkedin" />
-</a>
-</p>
+- Spring Boot backend following controller → service → repository architecture with JWT-based authentication
+- Swappable AI provider layer (OpenAI, Gemini, or local mock) configured via environment variables
+- Docker Compose for local development; GitHub Actions CI pipeline for automated builds
+- PostgreSQL data model covering the full student lifecycle as a single connected domain
 
 ---
 
-###  Build. Break. Learn. Contribute. Repeat.
+### [BLOGVERSE](https://github.com/RahilAlam929/BLOGVERSE)
 
- If you find my projects useful, consider giving them a star.
+Multi-user blogging platform with image upload, a public content feed, and author-scoped post management.
+
+`Next.js` `TypeScript` `Prisma` `PostgreSQL` `Cloudinary` `Tailwind CSS`
+
+- Next.js App Router with TypeScript; Prisma ORM managing PostgreSQL schema and queries
+- Cloudinary integration for blog image storage and delivery
+- Author-only edit/delete access control enforced at the backend layer
+- Deployed at [blogverse-navy.vercel.app](https://blogverse-navy.vercel.app)
 
 ---
 
+### [RuntimeLens](https://github.com/RahilAlam929/RuntimeLens)
 
-##  GitHub Profile Summary
+Developer tool for uploading a project, exploring source files, and running automated static review in a single workspace.
+
+`Next.js` `TypeScript` `Prisma` `SQLite`
+
+- Single-workspace interface replacing the need to switch between editor, terminal, and separate analysis tools
+- File tree navigation and source code inspection across uploaded projects
+- Automated review pipeline surfacing potential issues before production
+- Prisma + SQLite for local project and findings persistence
+
+---
+
+### [repo-health-action](https://github.com/RahilAlam929/repo-health-action)
+
+Reusable GitHub Action that checks repository health and outputs a score and grade — published on the GitHub Marketplace.
+
+`GitHub Actions` `Bash` `YAML`
+
+- Checks four dimensions: README, LICENSE, GitHub Actions configuration, and minimum file presence
+- Outputs `health-score` (0–100) and `grade` as step outputs consumable by downstream workflow steps
+- Configurable minimum score gate for enforcing quality standards on push or pull request
+
+---
+
+## Open Source
+
+| Project | Description |
+|---|---|
+| [developer-roadmap](https://github.com/nilbuild/developer-roadmap) | Community-maintained developer learning roadmaps — contributed to roadmap content |
+| [kana-dojo](https://github.com/lingdojo/kana-dojo) | Japanese learning platform built with Next.js — contributed to content and i18n |
+| [open-elements-website](https://github.com/OpenElements/open-elements-website) | OpenElements web presence — contributed to site maintenance and configuration |
+| [firstcontributions](https://github.com/firstcontributions/firstcontributions.github.io) | Open-source onboarding platform for first-time contributors |
+
+---
+
+## Engineering Focus
+
+Areas I actively work in and explore:
+
+Full-Stack Engineering · Backend Systems · REST API Design · AI/ML Pipelines · Static Analysis · Code Intelligence · GitHub Automation · CI/CD · Security Fundamentals · Open Source
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RahilAlam929&theme=tokyonight" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RahilAlam929&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahilAlam929&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="165"/>
 
 </div>
+
+---
+
+## Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-RahilAlam929-181717?style=flat-square&logo=github)](https://github.com/RahilAlam929)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MD%20Rahil-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/md-rahil-a070b3329/)
+
+---
+
+<sub>Build. Ship. Learn. Contribute.</sub>
