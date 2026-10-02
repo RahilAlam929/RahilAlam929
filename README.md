@@ -1,42 +1,25 @@
+
 # Hi, I'm MD Rahil
 
-** Software Engineer · AI/ML Enthusiast · Open-Source Contributor**
+**Software Engineer · AI/ML Enthusiast · Open-Source Contributor**
 
-I build full-stack systems, developer tools, and automation workflows with a focus on backend architecture, code intelligence, and practical ML integration. My work spans REST API design, static analysis tooling, ML pipelines, and CI/CD automation.
+I build practical software systems at the intersection of **backend engineering, AI/ML, developer tooling, and automation**.
 
----
-
-## Currently Building
-
-- Code intelligence and static analysis platforms
-- ML pipelines for real-world classification problems
-- Full-stack applications with Next.js and FastAPI
-- Reusable GitHub Actions for repository automation
-- Open-source developer tools and infrastructure
+Currently focused on building reliable full-stack products, intelligent developer tools, ML pipelines, and open-source projects.
 
 ---
 
-## Tech Stack
+## What I Build
 
-**Languages**
-`Python` `TypeScript` `JavaScript` `Java`
-
-**Frontend**
-`Next.js` `React` `Tailwind CSS`
-
-**Backend**
-`FastAPI` `Spring Boot` `Node.js`
-
-**Databases**
-`PostgreSQL` `SQLite` `Prisma` `Alembic`
-
-**AI / ML**
-`scikit-learn` `Pandas` `NumPy`
-
-**DevOps & Infrastructure**
-`Docker` `GitHub Actions` `Bash` `Linux`
+- Developer tools for code intelligence and static analysis
+- ML systems for real-world classification problems
+- Full-stack products using Next.js and FastAPI
+- Backend services and REST APIs
+- CI/CD and GitHub automation workflows
+- Open-source tools and infrastructure
 
 ---
+
 ## Featured Projects
 
 | Project | Description |
