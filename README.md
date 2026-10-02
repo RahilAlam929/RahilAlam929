@@ -24,13 +24,12 @@ Currently focused on building reliable full-stack products, intelligent develope
 
 | Project | Description |
 |---|---|
-| [DevAnalyzeX](...) | Full-stack platform for repository code quality and security analysis. |
-| [FraudGuard AI](...) | Machine learning system for credit card fraud detection. |
-| [StudentOS](...) | Platform for academic tracking, projects, internships, and career planning. |
-| [BLOGVERSE](...) | Multi-user blogging platform with content management and image uploads. |
-| [RuntimeLens](...) | Developer tool for project exploration and automated code review. |
-| [repo-health-action](...) | GitHub Action for repository health analysis and quality scoring. |
-
+| [DevAnalyzeX](https://github.com/RahilAlam929/DevAnalyzeX) | Developer platform for code quality, security analysis, and repository intelligence. |
+| [FraudGuard AI](https://github.com/RahilAlam929/fraudguard-ai) | Machine learning system for credit card fraud detection. |
+| [StudentOS](https://github.com/RahilAlam929/StudentOs) | Platform for academic tracking, projects, internships, and career planning. |
+| [BLOGVERSE](https://github.com/RahilAlam929/BLOGVERSE) | Multi-user blogging platform for content creation and publishing. |
+| [RuntimeLens](https://github.com/RahilAlam929/RuntimeLens) | Developer tool for project exploration and automated code review. |
+| [repo-health-action](https://github.com/RahilAlam929/repo-health-action) | GitHub Action for repository health analysis and quality scoring. |
 ---
 
 
