@@ -125,7 +125,7 @@ Reusable GitHub Action that checks repository health and outputs a score and gra
 | [kana-dojo](https://github.com/lingdojo/kana-dojo) | Japanese learning platform built with Next.js — contributed to content and i18n |
 | [open-elements-website](https://github.com/OpenElements/open-elements-website) | OpenElements web presence — contributed to site maintenance and configuration |
 | [firstcontributions](https://github.com/firstcontributions/firstcontributions.github.io) | Open-source onboarding platform for first-time contributors |
-
+ [mycelium](https://github.com/mycelium-labs/mycelium) | Python reliability and safety framework — contributed a Contributor Code of Conduct and community documentation |
 ---
 
 ## Engineering Focus
