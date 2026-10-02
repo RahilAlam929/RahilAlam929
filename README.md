@@ -39,16 +39,17 @@ I build full-stack systems, developer tools, and automation workflows with a foc
 ---
 ## Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| [DevAnalyzeX](https://github.com/RahilAlam929/DevAnalyzeX) | Full-stack platform for repository code quality and security analysis. | `Python` `FastAPI` `Next.js` `PostgreSQL` `Docker` |
-| [FraudGuard AI](https://github.com/RahilAlam929/fraudguard-ai) | ML pipeline and API for credit card fraud detection under severe class imbalance. | `Python` `scikit-learn` `FastAPI` `Pandas` |
-| [StudentOS](https://github.com/RahilAlam929/StudentOs) | Full-stack platform for academic tracking, projects, internships, and career planning. | `Java` `Spring Boot` `Next.js` `PostgreSQL` `Docker` |
-| [BLOGVERSE](https://github.com/RahilAlam929/BLOGVERSE) | Multi-user blogging platform with image uploads and author-scoped content management. | `Next.js` `TypeScript` `Prisma` `PostgreSQL` |
-| [RuntimeLens](https://github.com/RahilAlam929/RuntimeLens) | Developer tool for project exploration and automated static code review. | `Next.js` `TypeScript` `Prisma` `SQLite` |
-| [repo-health-action](https://github.com/RahilAlam929/repo-health-action) | GitHub Action that evaluates repository health and generates a quality score. | `GitHub Actions` `Bash` `YAML` |
+| Project | Description |
+|---|---|
+| [DevAnalyzeX](...) | Full-stack platform for repository code quality and security analysis. |
+| [FraudGuard AI](...) | Machine learning system for credit card fraud detection. |
+| [StudentOS](...) | Platform for academic tracking, projects, internships, and career planning. |
+| [BLOGVERSE](...) | Multi-user blogging platform with content management and image uploads. |
+| [RuntimeLens](...) | Developer tool for project exploration and automated code review. |
+| [repo-health-action](...) | GitHub Action for repository health analysis and quality scoring. |
 
 ---
+
 
 
 ## Open Source
