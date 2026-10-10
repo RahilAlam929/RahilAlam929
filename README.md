@@ -24,6 +24,7 @@ Currently focused on building reliable full-stack products, intelligent develope
 
 | Project | Description |
 |---|---|
+ [TENVOR](https://github.com/RahilAlam929/tenvor) | TENVOR is an AI-powered code intelligence platform that helps developers understand codebases through code graphs, dependency analysis, and impact analysis.
 | [DevAnalyzeX](https://github.com/RahilAlam929/DevAnalyzeX) | Developer platform for code quality, security analysis, and repository intelligence. |
 | [FraudGuard AI](https://github.com/RahilAlam929/fraudguard-ai) | Machine learning system for credit card fraud detection. |
 | [StudentOS](https://github.com/RahilAlam929/StudentOs) | Platform for academic tracking, projects, internships, and career planning. |
