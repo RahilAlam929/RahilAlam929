@@ -40,6 +40,7 @@ Currently focused on building reliable full-stack products, intelligent develope
 | Project | Description |
 |---|---|
 | [developer-roadmap](https://github.com/nilbuild/developer-roadmap) | Community-maintained developer learning roadmaps — contributed to roadmap content |
+| [semantic-router](https://github.com/RahilAlam929/semantic-router) | Open-source AI routing library — contributed code via a merged pull request |
 | [kana-dojo](https://github.com/lingdojo/kana-dojo) | Japanese learning platform built with Next.js — contributed to content and i18n |
 | [open-elements-website](https://github.com/OpenElements/open-elements-website) | OpenElements web presence — contributed to site maintenance and configuration |
 | [firstcontributions](https://github.com/firstcontributions/firstcontributions.github.io) | Open-source onboarding platform for first-time contributors |
