@@ -40,7 +40,6 @@ Currently focused on building reliable full-stack products, intelligent develope
 | Project | Description |
 |---|---|
 | [developer-roadmap](https://github.com/nilbuild/developer-roadmap) | Community-maintained developer learning roadmaps — contributed to roadmap content |
-|---|---|
 | [semantic-router](https://github.com/vllm-project/semantic-router/pull/4889) | Contributed Go code fixes, preserved request/response capture compatibility, and resolved review feedback with passing tests in the vLLM Semantic Router project |
 | [kana-dojo](https://github.com/lingdojo/kana-dojo) | Japanese learning platform built with Next.js — contributed to content and i18n |
 | [open-elements-website](https://github.com/OpenElements/open-elements-website) | OpenElements web presence — contributed to site maintenance and configuration |
