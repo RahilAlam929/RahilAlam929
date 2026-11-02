@@ -53,17 +53,7 @@ Areas I actively work in and explore:
 
 Full-Stack Engineering · Backend Systems · REST API Design · AI/ML Pipelines · Static Analysis · Code Intelligence · GitHub Automation · CI/CD · Security Fundamentals · Open Source
 
----
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="./github-stats.svg" height="195"/>
-&nbsp;&nbsp;
-<img src="./top-langs.svg" height="195"/>
-
-</div>
 
 ---
 
